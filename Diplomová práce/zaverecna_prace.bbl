@@ -1,0 +1,231 @@
+\begin{thebibliography}{}
+
+\bibitem[Albert~Bifet, 2009]{kirk}
+Albert~Bifet, R.~K. (2009).
+\newblock Data stream mining a practical approach.
+\newblock {\em 2008. ICDM '08. Eighth IEEE International Conference on Data
+  Mining}.
+
+\bibitem[Alena~Koubková, 2011]{koubek}
+Alena~Koubková, V.~K. (2011).
+\newblock {\em Datové struktury I.}
+\newblock MatfyzPress.
+
+\bibitem[Alpaydin, 2014]{ethem}
+Alpaydin, E. (2014).
+\newblock {\em Introduction to Machine Learning}.
+\newblock MIT Press.
+
+\bibitem[Andrew Y.~Ng, 2002]{jordan}
+Andrew Y.~Ng, M.~J. (2002).
+\newblock A comparison of logistic regression and naive bayes.
+
+\bibitem[Bishop, 1996]{bishop}
+Bishop, C.~M. (1996).
+\newblock {\em Neural Networks for Pattern Recognition}.
+\newblock Oxford University Press.
+
+\bibitem[Burda, 2004]{burda}
+Burda, M. (2004).
+\newblock Získávání znalostí z databází - asociační pravidla.
+\newblock {\em VŠB–TU Ostrava}.
+
+\bibitem[Bureš, 2007]{bures}
+Bureš, V. (2007).
+\newblock {\em Znalostní management a proces jeho zavádění}.
+\newblock Grada.
+
+\bibitem[Chapelle, 2006]{oli}
+Chapelle, O. (2006).
+\newblock Training a support vector machine in the primal.
+\newblock {\em Neural Computation}.
+
+\bibitem[Chapelle et~al., 2006]{chapelle}
+Chapelle, O., Schölkopf, B., and Zien, A. (2006).
+\newblock {\em Semi-Supervised Learning}.
+\newblock MIT PR.
+
+\bibitem[Chih-Chung~Chang, 2013]{lin}
+Chih-Chung~Chang, C.-J.~L. (2013).
+\newblock Libsvm: A library for support vector machines.
+\newblock {\em National Taiwan University, Taipei, Taiwan}.
+
+\bibitem[Chris~Fleizach, 1998]{chris}
+Chris~Fleizach, S.~F. (1998).
+\newblock A naive bayes classifier on 1998 kdd cup.
+\newblock {\em Department of Computer Science and Engineering, University of
+  California, San Diego}.
+
+\bibitem[Desai et~al., 2016]{desai}
+Desai, S., Roy, S., Patel, B., Purandare, S., and Kucheria, M. (2016).
+\newblock Very fast decision tree (vfdt) algorithm on hadoop.
+
+\bibitem[Domingos, 2012]{pedro}
+Domingos, P. (2012).
+\newblock A few useful things to know about machine learning.
+\newblock {\em Communications of the ACM}, 55(10).
+
+\bibitem[Freedman, 2009]{freedman}
+Freedman, D.~A. (2009).
+\newblock {\em Statistical Models: Theory and Practice}.
+\newblock CAMBRIDGE UNIV PR.
+
+\bibitem[Fürnkranz et~al., 2012]{furn}
+Fürnkranz, J., Gamberger, D., and Lavra', N. (2012).
+\newblock {\em Foundations of Rule Learning}.
+\newblock Springer Berlin Heidelberg.
+
+\bibitem[García-Martín, 2017]{evag}
+García-Martín, E. (2017).
+\newblock {\em Extraction and Energy Efficient Processing of Streaming Data}.
+\newblock PhD thesis, Department of Computer Science and Engineering, Blekinge
+  Institute of Technology, Sweden.
+
+\bibitem[Geoffrey~Hintony, 1999]{sejn}
+Geoffrey~Hintony, T. J.~S. (1999).
+\newblock {\em Unsupervised Learning: Foundations of Neural Computation}.
+\newblock MCGRAW HILL BOOK CO.
+
+\bibitem[Gillenson, 2011]{gill}
+Gillenson, M.~L. (2011).
+\newblock {\em Fundamentals of Database Management Systems}.
+\newblock JOHN WILEY \& SONS INC.
+
+\bibitem[Gra\~na et~al., 2015]{oniev}
+Gra\~na, M., Corchado, E., and Wozniak, M. (2015).
+\newblock Hybrid artificial intelligent systems.
+\newblock {\em Journal of Mathematical Imaging and Vision}, 42.
+
+\bibitem[Hanák, 2009]{hanak}
+Hanák, J. (2009).
+\newblock {\em C\# 3.0 - Programování na platformě .NET 3.5}.
+\newblock Zoner Press.
+
+\bibitem[Hegland, 2005]{hegland}
+Hegland, M. (2005).
+\newblock The apriori algorithm – a tutorial.
+
+\bibitem[Heru~Ismanto, 2016]{c45}
+Heru~Ismanto, R.~W. (2016).
+\newblock Analysis of c4.5 and k-nearest neighbor (knn) method on algorithm of
+  clustering for deciding mainstay area.
+\newblock {\em IOSR Journal of Computer Engineering (IOSR-JCE)}, 18.
+
+\bibitem[Hudec, 2001]{hudec}
+Hudec, B. (2001).
+\newblock {\em Programovací techniky}.
+\newblock Elektrotechnická fakulta, Praha.
+
+\bibitem[HW, 2008]{neuronobr}
+HW, A. (2008).
+\newblock http://automatizace.hw.cz/files/images/image/ struktura\_site.gif.
+
+\bibitem[Intelligence, 2016]{clust}
+Intelligence, C. (2016).
+\newblock https://cambridge-intelligence.com/keylines-network-clustering/.
+
+\bibitem[Jiří~Rybička, 2014]{rybicka}
+Jiří~Rybička, P.~a. (2014).
+\newblock {\em Programovací techniky}.
+\newblock Mendelova Univerzita.
+
+\bibitem[Jiawei~Han, 2000]{han}
+Jiawei~Han, M.~K. (2000).
+\newblock {\em Data Mining: Concepts and Techniques (The Morgan Kaufmann Series
+  in Data Management Systems)}.
+\newblock Morgan Kaufmann.
+
+\bibitem[Kotsiantis, 2007]{MR2350486}
+Kotsiantis, S.~B. (2007).
+\newblock Supervised machine learning: A review of classification techniques.
+\newblock {\em Informatica. An International Journal of Computing and
+  Informatics}, 31(3):249--268.
+
+\bibitem[Libor~Gála, 2006]{gala}
+Libor~Gála, J. P. a. P.~T. (2006).
+\newblock {\em Podniková informatika}.
+\newblock Grada.
+
+\bibitem[Littman, 2004]{littman}
+Littman, M. (2004).
+\newblock https://www.cs.rutgers.edu/~mlittman/courses/ ml03/DMDT-streams.pdf.
+
+\bibitem[Michael W.~Berry, 2010]{berry}
+Michael W.~Berry, J.~K. (2010).
+\newblock {\em Text Mining: Applications and Theory}.
+\newblock JOHN WILEY \& SONS INC.
+
+\bibitem[Mitchell, 1997]{mitchell}
+Mitchell, T.~M. (1997).
+\newblock {\em Machine Learning}.
+\newblock McGraw-Hill Education.
+
+\bibitem[Nisbet et~al., 2009]{Nisbet_2009}
+Nisbet, R., Elder, J., and Miner, G. (2009).
+\newblock The data mining process.
+\newblock In {\em Handbook of Statistical Analysis and Data Mining
+  Applications}, pages 33--48. Elsevier.
+
+\bibitem[Ondrejka, 2013]{ondrejka}
+Ondrejka, P. (2013).
+\newblock Porovnání nekomerčních nástrojů pro dolování znalosti z dat
+  pomocí strojového učení.
+\newblock Master's thesis, Mendelova Univerzita v Brně.
+
+\bibitem[Rychlý, 2005]{rychly}
+Rychlý, M. (2005).
+\newblock Klasifikace a predikce.
+\newblock {\em Ústav informačních systémů, Vysoké učení technické v
+  Brně}.
+
+\bibitem[Sabhia~Firdaus, 2015]{uddin}
+Sabhia~Firdaus, M. A.~U. (2015).
+\newblock A survey on clustering algorithms and complexity analysis.
+\newblock {\em IJCSI International Journal of Computer Science}, 12.
+
+\bibitem[Scholkopf, 2002]{schol}
+Scholkopf (2002).
+\newblock {\em Learning with Kernels}.
+\newblock MIT University Press Group Ltd.
+
+\bibitem[S.Vijayarani, 2011]{vijay}
+S.Vijayarani, M. (2011).
+\newblock An efficient algorithm for generating classification rules.
+
+\bibitem[Tan et~al., 2005]{tan}
+Tan, P.-N., Steinbach, M., and Kumar, V. (2005).
+\newblock {\em Introduction to Data Mining}.
+\newblock Pearson.
+
+\bibitem[Tufféry, 2011]{tuffery}
+Tufféry, S. (2011).
+\newblock {\em Data Mining and Statistics for Decision Making}.
+\newblock JOHN WILEY \& SONS INC.
+
+\bibitem[Usama~Fayyad, 1996]{fayyad}
+Usama~Fayyad, Gregory Piatetsky~Shapiro, P.~S. (1996).
+\newblock From data mining to knowledge discovery in databases.
+\newblock {\em AI Magazine Volume 17 Number 3}.
+
+\bibitem[Weiss et~al., 2010]{weiss}
+Weiss, S.~M., Indurkhya, N., and Zhang, T. (2010).
+\newblock {\em Fundamentals of Predictive Text Mining (Texts in Computer
+  Science)}.
+\newblock Springer.
+
+\bibitem[WordPress, 2015]{mla}
+WordPress (2015).
+\newblock https://jixta.files.wordpress.com/2015/11/
+  machinelearningalgorithms.png.
+
+\bibitem[Xindong~Wu, 2009]{top10}
+Xindong~Wu, V.~K. (2009).
+\newblock {\em The Top Ten Algorithms in Data Mining}.
+\newblock Chapman and Hall/CRC.
+
+\bibitem[Zeng et~al., 2008]{zeng}
+Zeng, Z.-Q., Yu, H.-B., Xu, H.-R., Xie, Y.-Q., and Gao, J. (2008).
+\newblock Fast training support vector machines using parallel sequential
+  minimal optimization.
+
+\end{thebibliography}
